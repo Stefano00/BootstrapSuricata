@@ -1,0 +1,53 @@
+.tituloPrincipal{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    font: Bold 60px/82px Open Sans; 
+    color: #707070;
+    
+}   
+
+.diseno2{
+    font: Bold 40px/55px Open Sans;
+    color:white;
+}
+.diseno1{
+    background-color: #17A2B8;
+   
+    height: 170px;
+}
+.diseno3{
+    background-color: #E83E8C;
+    width: 100%;
+    height: 184px;
+    padding-top: 30px;
+}
+.navColorPink{
+    background: #E83E8C 0% 0% no-repeat padding-box;
+
+}
+
+.alignRight{
+    padding-left: 800px;
+}
+
+.alignLogo{
+    padding-left: 119px;
+}
+
+.paddingBot{
+    padding-bottom: 64px;
+}
+
+.paddingBotEach{
+    padding-bottom: 50px;   
+}
+.paddingGeneral{
+    padding: 30px;
+}
+.paddingTop{
+    padding-top: 58px;
+}
+
+.colores{
+    color:white;
+}
